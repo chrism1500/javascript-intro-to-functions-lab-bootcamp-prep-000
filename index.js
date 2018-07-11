@@ -19,7 +19,7 @@ function logShout(string) {
  }
   
 function sayHiToGrandma(string){
-  if(s)
+  if(s)if (string == string.toLowerCase() )
 }
 
 function sayHiToGrandma(string) {
